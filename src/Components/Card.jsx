@@ -10,6 +10,7 @@ export const ProductCard = ({product}) => {
             <p className="brand-name">{product.brand}</p>
             <p className="product-price">{product.price}</p>
             <p className="product-price">{product.size}</p>
+            <p className="product-price">{product.gender}</p>
         </div>
     )
 }
