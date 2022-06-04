@@ -1,0 +1,39 @@
+
+[
+    {
+        "brand" : "allen solly",
+        "price" : 100,
+        "size" : "s",
+        "gender" : "mane"
+    },
+    {
+        "brand" : "arrow",
+        "price" : 100,
+        "size" : "m",
+        "gender" : "mane"
+    },
+    {
+        "brand" : "allen solly",
+        "price" : 100,
+        "size" : "l",
+        "gender" : "woman"
+    },
+    {
+        "brand" : "bare denim",
+        "price" : 100,
+        "size" : "xl",
+        "gender" : "woman"
+    },
+    {
+        "brand" : "wrangler",
+        "price" : 100,
+        "size" : "s",
+        "gender" : "mane"
+    },
+    {
+        "brand" : "fab alley",
+        "price" : 100,
+        "size" : "m",
+        "gender" : "woman"
+    }
+]
