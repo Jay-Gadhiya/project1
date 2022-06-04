@@ -1,10 +1,10 @@
 import './App.css';
-import productData from "./Product-Data/data.json";
+import { ProductListingPage } from './Pages/productListing';
 
 function App() {
   return (
     <div>
-      
+        <ProductListingPage />
     </div>
   );
 }

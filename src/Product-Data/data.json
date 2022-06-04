@@ -1,39 +1,51 @@
 
 [
     {
-        "brand" : "allen solly",
+        "brand" : "allen",
         "price" : 100,
         "size" : "s",
-        "gender" : "mane"
+        "gender" : "man",
+        "id" : "1",
+        "img" : "https://rukminim1.flixcart.com/image/612/612/k0r15e80/t-shirt/p/e/k/m-askporgfj72665-allen-solly-original-imafkh3zfzgjuxch.jpeg?q=70"
     },
     {
         "brand" : "arrow",
-        "price" : 100,
+        "price" : 200,
         "size" : "m",
-        "gender" : "mane"
+        "gender" : "man",
+        "id" : "2",
+        "img" : "https://rukminim1.flixcart.com/image/496/595/kx50gi80/shirt/m/k/u/-original-imag9nw44jzhamy3.jpeg?q=50"
     },
     {
-        "brand" : "allen solly",
-        "price" : 100,
+        "brand" : "allen",
+        "price" : 300,
         "size" : "l",
-        "gender" : "woman"
+        "gender" : "man",
+        "id" : "3",
+        "img" : "https://rukminim1.flixcart.com/image/612/612/k1118cw0/t-shirt/h/p/z/xl-askporgfp82490-allen-solly-original-imafkztf2tt2uucx.jpeg?q=70"
     },
     {
-        "brand" : "bare denim",
-        "price" : 100,
+        "brand" : "bare",
+        "price" : 400,
         "size" : "xl",
-        "gender" : "woman"
+        "gender" : "woman",
+        "id" : "4",
+        "img" : "https://rukminim1.flixcart.com/image/496/595/l26hdow0/t-shirt/p/f/9/xxl-tshirt151-eg-original-imagdksas853pmzu.jpeg?q=50"
     },
     {
         "brand" : "wrangler",
-        "price" : 100,
+        "price" : 500,
         "size" : "s",
-        "gender" : "mane"
+        "gender" : "man",
+        "id" : "5",
+        "img" : "https://rukminim1.flixcart.com/image/496/595/l0r1j0w0/t-shirt/v/b/m/m-wmts003647-wrangler-original-imagchyyrmhekkyg.jpeg?q=50"
     },
     {
-        "brand" : "fab alley",
-        "price" : 100,
+        "brand" : "fab",
+        "price" : 600,
         "size" : "m",
-        "gender" : "woman"
+        "gender" : "woman",
+        "id" : "6",
+        "img" : "https://rukminim1.flixcart.com/image/496/595/ktrk13k0/top/p/o/q/xl-top05433-faballey-original-imag7f8ndzhy4mwx.jpeg?q=50"
     }
 ]
